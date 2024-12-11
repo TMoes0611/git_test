@@ -1,1 +1,2 @@
 //Well ok lets put some notes here in the top like this
+ok so lets add a little extra line to see what happens when i add, commit and push
