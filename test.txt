@@ -1,0 +1,2 @@
+a small testing file just to see how the commit function has changed after using git 
+config
